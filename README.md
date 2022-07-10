@@ -1,8 +1,8 @@
 ### Hello World! I'm Uriel David.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤝 I’m looking to collaborate on ...
+- 🔭 I’m currently working and living in Portugal, I work in companies with a SaaS business model, such as have a stack focused on PHP and Javascript.
+- 🌱 I’m currently learning more about the GO language and going forward I intend to learn more about cloud technologies and containers.
+- 🤝 I’m looking to collaborate on dev's communities, both with open-source (still timidly) and with dev's who are starting in this world.
 
 <div align="center">
   <a href="https://github.com/Uriel-David">
