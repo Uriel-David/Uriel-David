@@ -1,7 +1,7 @@
 ### Hello World! I'm Uriel David.
 
 - 🔭 I’m currently working and living in Portugal, I work in company with a SaaS business model, such as have a stack focused on PHP and Typescript.
-- 🌱 I’m currently learning more about the GO and Flutter and going forward I intend to learn more about cloud technologies and containers.
+- 🌱 I’m currently learning more about the Flutter and going forward I intend to learn more about cloud technologies and containers.
 - 🤝 I’m looking to collaborate on dev's communities, both with open-source (still timidly) and with dev's who are starting in this world.
 
 <div align="center">
