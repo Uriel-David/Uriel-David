@@ -1,35 +1,26 @@
-### Hello World! I'm Uriel David.
+# 👋 Olá, visitante!
 
-- 🔭 I’m currently working and living in Portugal, I work in company with a SaaS business model, such as have a stack focused on PHP and Typescript.
-- 🌱 I’m currently learning more about the Flutter and going forward I intend to learn more about cloud technologies and containers.
-- 🤝 I’m looking to collaborate on dev's communities, both with open-source (still timidly) and with dev's who are starting in this world.
+😉 Não sei exatamente como você chegou aqui, mas já que chegou aqui que tal me conhecer.
 
-<div align="center">
-  <a href="https://github.com/Uriel-David">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriel-david&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🌟 Informações Públicas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Uriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Uriel-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Uriel-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Uriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Uriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Uriel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Uriel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Uriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Uriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Uriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Uriel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Uriel-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Uriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Uriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Meu nome é **Uriel David**. Atualmente, moro em **Porto, Portugal** e meu objetivo é ajudar a comunidade tech, principalmente os menos experientes, e desenvolver soluções úteis para o mundo (Se conseguir ganhar uma grana no meio não é ruim). 🚀
 
-##
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Atualmente estou meio offline de comunidade mas pretendo voltar a atualizar meu [**dev.to**](http://dev.to/uriel-david) e atuar com conteúdos diversos na área tech e afins. 🤝
 
-<div>
-  <a href = "mailto:uriel.dqaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/uriel-david/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.uriel-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%902309?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
-</div>
+## 📝 Informações Detalhadas
+
+- 👤 **Nome:** Uriel David Q. A. de Azevedo
+- 🎂 **Idade:** 26 anos
+- 📍 **Localização:** Porto, Portugal
+- 💻 **Stack:** PHP, Java, Python, Dart/Flutter, JS/TS, Node, React/React-Native, Vue, Cloud (AWS, GCP e Azure), entre outras...
+- 📚 **Aprendizado Atual:** Hoje estou focado em aprender novas langs como Go e mais sobre conceitos de Arquiteturas
+- 🎓 **Formação:** Ciências da Computação (Incompleto - cursei 5/8 períodos)
+
+## 😎 Curiosidades sobre Mim
+
+- 🤗 Sou amante de Jogos de todos os tipos, desde jogar Xadrez a Video-Games, típico clichê nerd mas fazer o que neh LOL.
+- 💡 Comecei a programar ainda com **15 anos** e, desde então, venho acumulando burnouts... brincadeirinha, estou crescendo a cada dia e espero conseguir alcançar patamares ainda maiores.      
+- 🌐 Já trabalhei em diversas áreas desde Suporte Aplicacional, Redes de Computadores (Por sinal tenho formação a nível técnico 😎), e lógico programação com ampla experiência na área.
+
+---
